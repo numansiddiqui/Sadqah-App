@@ -19,15 +19,7 @@ class AuthPage extends StatelessWidget {
           if (snapshot.hasData) {
             return const RootScreen();
           }
-          // } else {
-          //   if (snapshot.data?.emailVerified == true) {
-          //     print('Email is verified');
-          //     return RootScreen();
-          //   } else {
-          //     // return const VerifyScreen();
-          //
-          //   }
-          // }
+     
           else {
             return const LoginOrRegister();
           }
