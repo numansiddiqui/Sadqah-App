@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780801873809",
+    "project_id": "fluttbase-2b158",
+    "storage_bucket": "fluttbase-2b158.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780801873809:android:7fcaf370f73906346a6c30",
+        "android_client_info": {
+          "package_name": "com.example.fluttbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3iCARugIXQnuKrz_clfBxoXiVe21qmyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
